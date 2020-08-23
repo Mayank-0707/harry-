@@ -1,0 +1,35 @@
+mark{
+    background-color:green;
+    color:red;
+  }
+  p{
+    font-size:25px;
+  }
+  a {
+    font-size:30px;
+    color:blue;
+  }
+  img{
+    height:90vh;
+    width:60vw;
+    border-radius:10px;
+  }
+  div{
+    background-color:black;
+    color:green;
+    text-align:center;
+    margin:10%;
+    padding:2%;
+  }
+  h1,h2{
+    font-size:250%;
+  }
+  img:hover {
+    cursor:pointer;
+    transform: scale(1.05);
+    box-shadow: 0px 0px 5px 5px blue;
+  }
+  body{
+    background-image:url( "https://images7.alphacoders.com/506/thumb-350-506800.jpg");
+  }
+  
